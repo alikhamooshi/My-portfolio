@@ -1,0 +1,4 @@
+asgiref
+Django==4.2.16
+sqlparse
+tzdata
